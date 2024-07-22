@@ -33,7 +33,7 @@ This is a documentation for the project management of the WMS application that y
 <!-- GETTING STARTED -->
 <h2 id="getting-started">📚 Getting Started</h2>
 
-You can open the `PDF` or the `Latex` files to check the documentation and understand how the project management cycle.
+You can open the `PDF` to check the documentation and understand how the project management cycle.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
